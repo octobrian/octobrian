@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @octobrian
 - 👀 I’m interested in fast cars and music.
-- 🌱 I’m currently learning to fly.
+- 🌱 I’m currently learning to fly (well not rally 'cause it might hurt when I **hit** the ground.
 - 💞️ I’m looking to collaborate on Hyper-V
 - 📫 How to reach me: Twitter is great.
 

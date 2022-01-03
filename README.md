@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @octobrian
 - 👀 I’m interested in fast cars and music.
-- 🌱 I’m currently learning to fly (well not really 'cause it might hurt when I **hit** the ground).
-- 💞️ I’m looking to collaborate on Hyper-V.
+- 🌱 I’m currently learning about new features in C#.
+- 💞️ I’m looking to collaborate on better DevOps practices, especially security related.
 - 📫 How to reach me: Twitter is great.
 
 <!---
